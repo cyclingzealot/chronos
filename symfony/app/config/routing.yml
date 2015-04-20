@@ -1,0 +1,4 @@
+jlam_chronos:
+    resource: "@JlamChronosBundle/Resources/config/routing.xml"
+    prefix:   /
+
