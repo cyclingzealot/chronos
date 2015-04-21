@@ -1,0 +1,8 @@
+jlam_chronos_index:
+    path:	/
+    defaults: { _controller: JlamChronosBundle:Chronos:index }
+
+
+jlam_chronos_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: JlamChronosBundle:Default:index }
