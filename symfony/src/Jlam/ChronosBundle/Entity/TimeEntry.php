@@ -64,6 +64,17 @@ class TimeEntry
     private $mostRecentReset;
 
 
+    
+    
+    public static function getLatestZeroUnbookedTimestamp() {
+    	
+    }
+    
+    
+    public static function getUnbookedMinutes() {
+    	
+    }
+    
     /**
      * Get id
      *
